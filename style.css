@@ -3,10 +3,26 @@ body {
     align-items: center;
     justify-content: center;
 
-}
+ }
 
+ .lower{
+     cursor: pointer;
+    box-shadow: 5px 0 5px 0;
+    padding: 2vw 1vw;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border: none;
+    border-radius: 1vw;
+    font-size: 2vw;
+    font-weight: bold;
+    position: absolute;
+    right:23%;
+    top:70%;
+    margin:3vw;
+ }
 
-.add,.lower{
+.add{
     cursor: pointer;
     box-shadow: 5px 0 5px 0;
     padding: 2vw 1vw;
