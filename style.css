@@ -6,7 +6,7 @@ body {
  }
 
  .lower{
-     cursor: pointer;
+    cursor: pointer;
     box-shadow: 5px 0 5px 0;
     padding: 2vw 1vw;
     align-items: center;
