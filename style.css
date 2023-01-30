@@ -8,7 +8,7 @@ body {
 .lower{
     cursor: pointer;
     box-shadow: 5px 0 5px 0;
-    padding: 25px;
+    padding: 2vw 1vw;
     align-items: center;
     justify-content: center;
     color: black;
